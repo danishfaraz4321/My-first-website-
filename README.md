@@ -1,2 +1,2 @@
-# My-first-website-
-My first HTML project about giza pyramids 
+# Nature BEAUTY - Responsive Gallery
+My responsive nature gallery built with HTML, CSS & JS
